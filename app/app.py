@@ -14,7 +14,7 @@ st.set_page_config(
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(BASE_DIR, "churn_model.pkl")
 
-model = joblib.load(model_path)
+model = joblib.load(os.path.join(os.getcwd(), "app", "churn_model.pkl"))
 FINAL_THRESHOLD = 0.45
 
 # ---------------- HEADER ---------------- #
@@ -131,4 +131,5 @@ for insight in insights:
 
 # ---------------- FOOTER ---------------- #
 st.divider()
+
 st.caption("Built with Machine Learning | Logistic Regression + SHAP | ROC-AUC: 0.84")
