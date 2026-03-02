@@ -92,9 +92,10 @@ This project provided hands-on experience in:
 •	Cloud deployment and environment debugging
 •	Version control and reproducible ML workflows
 Future Improvements
-•	Experiment with XGBoost and gradient boosting models
+•	Experiment with XGBoost and gradient boosting model
 •	Add probability calibration
 •	Integrate SHAP explanations directly into the web interface
 •	Add customer segmentation analysis
 •	Implement CI/CD pipeline for automated deployment
+
 
