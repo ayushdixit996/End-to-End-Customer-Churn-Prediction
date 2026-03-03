@@ -1,4 +1,4 @@
-End-to-End Customer Churn Prediction System
+ End-to-End Customer Churn Prediction System
 Project Overview
 This project presents a complete end-to-end machine learning solution for predicting customer churn in a telecom business setting. The objective is to identify customers who are likely to leave the service so that proactive retention strategies can be applied.
 The system covers the entire ML lifecycle, including data preprocessing, model development, class imbalance handling, performance evaluation, explainability using SHAP, and deployment through a Streamlit web application.
@@ -97,5 +97,6 @@ Future Improvements
 •	Integrate SHAP explanations directly into the web interface
 •	Add customer segmentation analysis
 •	Implement CI/CD pipeline for automated deployment
+
 
 
