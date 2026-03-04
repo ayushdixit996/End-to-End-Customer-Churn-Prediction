@@ -4,7 +4,12 @@
 
 ## 📌 Project Overview
 
-This project presents a complete **end-to-end machine learning solution** for predicting customer churn in a telecom business setting. The objective is to identify customers who are likely to leave the service so that proactive retention strategies can be applied.
+This project presents a complete **end-to-end machine learning solution** for predicting customer churn in a telecom business setting. The objective is to identify customers who are likely to leave the service so that proactive retention strategies can be applied.<img width="637" height="860" alt="image" src="https://github.com/user-attachments/assets/a59eff4f-61d3-483b-9537-46a3169c386b" />
+<img width="813" height="809" alt="image" src="https://github.com/user-attachments/assets/439b291f-cd3a-4c09-a93d-527e5d6814e7" />
+<img width="829" height="740" alt="image" src="https://github.com/user-attachments/assets/6842e30a-7061-4dfe-a217-bc3813130443" />
+
+
+
 
 The system covers the entire ML lifecycle, including:
 - Data preprocessing
@@ -181,4 +186,5 @@ This project provided hands-on experience in:
 ---
 
 > Made with ❤️ using Python & Streamlit
+
 
