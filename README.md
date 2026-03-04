@@ -15,6 +15,7 @@ The system covers the entire ML lifecycle, including:
 - Deployment through a **Streamlit** web application
 
 > 🚀 A live version of the application is deployed on **Streamlit Cloud**.
+https://end-to-end-customer-churn-prediction-rquru35wf6kxrxgtvead6h.streamlit.app/
 
 ---
 
@@ -180,3 +181,4 @@ This project provided hands-on experience in:
 ---
 
 > Made with ❤️ using Python & Streamlit
+
